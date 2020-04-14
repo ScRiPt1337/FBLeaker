@@ -12,6 +12,6 @@ FBleaker will extract email from your facebook and try to find there password if
 screenshot: 
 ![alt text](https://github.com/ScRiPt1337/FBLeaker/blob/master/root1x.png "screenshot")
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YrEL5qc7hqE
-" target="_blank"><img src="http://img.youtube.com/vi/YrEL5qc7hqE/0.jpg" 
-alt="How to use" width="240" height="180" border="10" /></a>
+`How to use`
+
+[![How to use](http://img.youtube.com/vi/YrEL5qc7hqE/0.jpg)](http://www.youtube.com/watch?v=YrEL5qc7hqE)
