@@ -13,6 +13,11 @@ FBleaker will extract email from your facebook and try to find there password if
 
 >I am Not going to responsable for any illegal activity
 
+>###########HOW TO SETUP############
+>
+> 1# make sure Google Chrome is installed 
+> 2# If you get any error related with chrome download the leastest chromedriver from here https://sites.google.com/a/chromium.org/chromedriver/downloads and replace the chromedriver
+
 screenshot: 
 ![alt text](https://github.com/ScRiPt1337/FBLeaker/blob/master/root1x.png "screenshot")
 
