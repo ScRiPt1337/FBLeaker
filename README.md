@@ -9,6 +9,8 @@ FBleaker will extract email from your facebook and try to find there password if
 >*To check leak emails create a mail.txt and paste all the mails there*
 >4. Find Facebook Pages with Leaked Password
 
+> IF your using kali as root run kali.py otherwise dirctly run pwn
+
 >Dont use your personal account!
 
 >I am Not going to responsable for any illegal activity
